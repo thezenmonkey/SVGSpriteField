@@ -3,7 +3,7 @@
   "description": "A module add SVGSprites to Silverstripe",
   "type": "silverstripe-vendormodule",
   "homepage": "https://github.com/thezenmonkey/SVGSpriteField/",
-  "keywords": ["silverstripe", "SVG", "SVGSprites],
+  "keywords": ["silverstripe", "SVG", "SVGSprites"],
   "license": "BSD-3-Clause",
   "authors": [
     {"name": "Richard Rudy","email": "rick@designplusawesome.com"}

@@ -1,5 +1,5 @@
 {
-  "name": "thezenmonkey/SVGSpriteField",
+  "name": "thezenmonkey/silverstripe-svgspritefield",
   "description": "A module add SVGSprites to Silverstripe",
   "type": "silverstripe-vendormodule",
   "homepage": "https://github.com/thezenmonkey/SVGSpriteField/",

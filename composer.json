@@ -14,7 +14,7 @@
   "require": {
     "silverstripe/cms": "^4",
     "silverstripe/framework": "^4",
-    "stevie-mayhew/silverstripe-svg"
+    "stevie-mayhew/silverstripe-svg": "dev-master"
   },
   "autoload": {
     "psr-4": {

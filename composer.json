@@ -22,6 +22,9 @@
     }
   },
   "extra": {
-    "installer-name": "SVGSpriteField"
+    "installer-name": "SVGSpriteField",
+    "expose": [
+      "css"
+    ]
   }
 }
